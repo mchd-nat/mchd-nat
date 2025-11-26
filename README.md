@@ -2,5 +2,3 @@
 ✦ Software Developer<br>
 ✦ Graduate of Cybersecurity and Cyberdefense Management<br>
 ✦ Computer Science undergraduate
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mchd-nat&layout=compact)
